@@ -1,9 +1,8 @@
 **Fluid Onboarding – SwiftUI**
-A modern onboarding flow for iOS built with SwiftUI, featuring a custom liquid swipe effect (no third-party libraries).
+A modern onboarding flow for iOS built with SwiftUI, featuring a custom liquid swipe effect.
 This project demonstrates how to create a fluid, interactive onboarding experience with smooth transitions and full-screen background images.
 
 **Features**
-Pure SwiftUI (no external frameworks)
 Custom Liquid Swipe effect using Shape + DragGesture
 Full-screen background images with overlay text
 Reusable OnboardingPageView (title, subtitle, image)
